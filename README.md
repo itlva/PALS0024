@@ -1,4 +1,4 @@
 # PALS0043
-Univeristy College London \n
-BSc Psychology and Language Sciences \n
-PALS0043 - Advanced Statistics and Research Methods
+Univeristy College London - BSc Psychology and Language Sciences
+
+[PALS0043] Advanced Statistics and Research Methods
